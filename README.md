@@ -2,14 +2,7 @@
 
 - 💻 I'm currently working with NodeJS, React and a bit of Php
 - 📚 I'm currently learning Typescript, React and React Native
-##
-
-<div align="center">
-  <a href="https://github.com/munizzz1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizzz1&layout=compact&langs_count=5&theme=react&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=munizzz1&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-  
+##  
 <div style="display: inline_block"><br>
   <img align="center" alt="Muniz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Muniz-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
